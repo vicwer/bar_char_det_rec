@@ -5,7 +5,22 @@
 此工程是做条形图检测和坐标识别的，即给一张条形统计图，检测出图中所有的条形图以及坐标，并且识别出X，Y轴的坐标。其中条形图和坐标位置是共享一个检测网络实现，坐标识别单独一个网络。工程目录如下
 
 ```
-
+bar_char_det_rec
+│   ├── bar_chart_detect
+│   │   ├── ckpt
+│   │   ├── data
+│   │   ├── examples
+│   │   ├── models
+│   │   ├── prepare_data
+│   │   └── tools
+│   ├── detRecRes
+│   └── number_recognize
+│       ├── ckpt
+│       ├── data
+│       ├── examples
+│       ├── models
+│       ├── prepare_data
+│       └── tools
 ```
 
 ## 检测网络
