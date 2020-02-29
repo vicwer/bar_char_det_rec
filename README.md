@@ -43,7 +43,7 @@ opencv==3.4.1
 ## 效果图
 
 ![original_img](./bar_chart_detect/data/bar1.png)
-![det_res](./detRecRes/bar1.png)
+![det_res](./detRecRes/res1.png)
 
 ## 其他
 
