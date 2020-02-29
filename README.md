@@ -40,6 +40,11 @@ opencv==3.4.1
 
 所有依赖库安装之后，运行根目录下的`test.py`，即可将检测结果保存下来。
 
+## 效果图
+
+![original_img](./bar_chart_detect/data/bar1.png)
+![det_res](./detRecRes/bar1.png)
+
 ## 其他
 
 整个工程中，数据预处理，训练和推理的代码都很完整，后面再更新README...O(∩_∩)O
