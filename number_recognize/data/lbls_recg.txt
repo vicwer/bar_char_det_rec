@@ -1,0 +1,1 @@
+../data/lbl0.png ../data/lbl06W.png

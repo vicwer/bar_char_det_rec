@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/xjyu/kgduan/Object_Detect/bar_chart_detect/ckpt/ckpt_608/60000_plate.ckpt-60001"
+all_model_checkpoint_paths: "/home/xjyu/kgduan/Object_Detect/bar_chart_detect/ckpt/ckpt_608/20000_plate.ckpt-20001"
+all_model_checkpoint_paths: "/home/xjyu/kgduan/Object_Detect/bar_chart_detect/ckpt/ckpt_608/30000_plate.ckpt-30001"
+all_model_checkpoint_paths: "/home/xjyu/kgduan/Object_Detect/bar_chart_detect/ckpt/ckpt_608/40000_plate.ckpt-40001"
+all_model_checkpoint_paths: "/home/xjyu/kgduan/Object_Detect/bar_chart_detect/ckpt/ckpt_608/50000_plate.ckpt-50001"
+all_model_checkpoint_paths: "/home/xjyu/kgduan/Object_Detect/bar_chart_detect/ckpt/ckpt_608/60000_plate.ckpt-60001"
